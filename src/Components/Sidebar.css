@@ -1,0 +1,19 @@
+.segment {
+  height: 700px;
+}
+
+.toolsbtn {
+  background-color: #00032B !important;
+  color: white !important;
+  font-size: 1.2rem !important;
+  width: 150px;
+}
+
+.toolname {
+  margin-left: 700px;
+  padding-bottom: 10px;
+}
+
+.subnavbar {
+  margin-bottom: -15px !important;
+}

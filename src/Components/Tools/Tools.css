@@ -1,0 +1,35 @@
+.chart-centered {
+  margin: 0 auto;
+}
+
+.btn {
+  border: 0px;
+  margin-right: 12px;
+}
+
+.pricetag {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: blueviolet;
+  color: white;
+  font-size: 2rem;
+  padding: 2px 8px;
+}
+
+.descrip {
+  height: 100px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.itemcolor {
+  font-size: 1rem;
+}
+
+.ads {
+  margin-left: auto;
+  margin-right: auto;
+}
